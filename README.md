@@ -5,14 +5,12 @@ Bem-vindo ao repositório do meu portfólio pessoal! Este site foi desenvolvido 
 ## Tecnologias Utilizadas
 - **HTML**: Utilizado para estruturar o conteúdo da página.
 - **CSS**: Empregado para estilizar visualmente a página, garantindo que o layout seja responsivo e atraente.
-- **JavaScript**: Usado para adicionar interatividade ao site, melhorando a experiência do usuário.
 - **Bootstrap**: Framework CSS utilizado para acelerar o desenvolvimento do site, garantindo um design responsivo e moderno com menos esforço.
   
 ## Conhecimentos Adquiridos
 Ao longo deste projeto, aprofundei meus conhecimentos em desenvolvimento web e práticas de hospedagem de sites. A experiência de levar um site do conceito ao deploy me proporcionou insights valiosos sobre:
 - Estruturação de projetos web com HTML5.
 - Estilização avançada com CSS e Bootstrap.
-- Implementação de funcionalidades dinâmicas com JavaScript.
 - Processo de hospedagem e gerenciamento de domínios, garantindo que o site seja acessível globalmente.
 
 ## Acessar o Portfólio
