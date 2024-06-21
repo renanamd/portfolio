@@ -1,0 +1,16 @@
+#intro{
+    background-color: #001B96;
+    border-bottom: #FF9554;
+}
+
+#link_linkedin, #link_git{
+    text-decoration: none;
+}
+
+.progress-bar{
+    color: #FF9554;
+}
+
+#cv{
+    color: white;
+}
